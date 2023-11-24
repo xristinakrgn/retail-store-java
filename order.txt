@@ -1,0 +1,62 @@
+ORDER_LIST
+{
+	ORDER
+	{
+		MODEL Code: CON003
+Model: Microsoft-Xbox-X
+Year: 2020
+Manufacturer: Microsoft
+Stock: 0
+Price: 524.99$
+Type: XBOX Series X
+Processor: AMD
+Graphics: Radeon
+Sound: 3,8 GHz
+Hard Drive: 16GB
+		ORDER_NUMBER 1
+		NAME CHRISTINA KARAGIANNI
+		PHONE_NUMBER 6900000000
+		ORDER_DATE 2023-06-17
+		DELIVERY_DATE 2023-06-24
+		PRICE 472.49
+		STATUS false
+	}
+	ORDER
+	{
+		MODEL Code: WM001
+Model: LG-F4WV310S6E-Washing-Machine
+Year: 2018
+Manufacturer: LG
+Stock: 0
+Price: 619.0$
+Energy Class: Â
+Storage: 10
+Turns: 1400
+		ORDER_NUMBER 2
+		NAME NEFELI DIMITRIOU
+		PHONE_NUMBER 6900000000
+		ORDER_DATE 2023-06-18
+		DELIVERY_DATE 2023-06-25
+		PRICE 495.2
+		STATUS false
+	}
+	ORDER
+	{
+		MODEL Code: WM001
+Model: LG-F4WV310S6E-Washing-Machine
+Year: 2018
+Manufacturer: LG
+Stock: 0
+Price: 619.0$
+Energy Class: Â
+Storage: 10
+Turns: 1400
+		ORDER_NUMBER 3
+		NAME ELENA KOLIOTASI
+		PHONE_NUMBER 6900000000
+		ORDER_DATE 2023-06-18
+		DELIVERY_DATE 2023-06-25
+		PRICE 495.2
+		STATUS false
+	}
+}

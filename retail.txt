@@ -1,0 +1,21 @@
+SALES_LIST
+{
+	SALE
+	{
+		MODEL Code: TV002
+Model: LG-3000
+Year: 2022
+Manufacturer: LG
+Stock: 2
+Price: 299.0$
+Type: LED
+Screen dimention: 43.0"
+Resolution: 4k Ultra HD
+Ports: 3 HDMI
+		SALES_NUMBER 1
+		NAME RITA NIKOLOPOYLOY
+		PHONE_NUMBER 69999999999
+		SALE_DATE 2023-06-28
+		PRICE 224.25
+	}
+}
